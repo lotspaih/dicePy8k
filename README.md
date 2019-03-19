@@ -26,7 +26,7 @@ Tested on Windows 7 SP1 and Windows 10 x64, Ubuntu Linux 16.04 x64, and macOS 10
 * No installation required. 
 * Download dicepy8k.py using [cURL](https://curl.haxx.se/):
 ```
-curl -o dicepy8k.py https://gitlab.com/lotspaih/dicePy8k/raw/master/dicepy8k.py
+curl -o dicepy8k.py https://github.com/lotspaih/dicePy8k/raw/master/dicepy8k.py
 ```
 
 * Download the Diceware 8k file using [cURL](https://curl.haxx.se/):
