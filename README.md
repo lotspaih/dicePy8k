@@ -60,6 +60,7 @@ Press any key to continue...
 
 ## TODO
 * Add command line argument for saving passphrase words (file?, clipboard?)
+* Create Windows executable?
 * Clean up script (*make it more "[Pythonic](http://docs.python-guide.org/en/latest/writing/style/)"*)
 
 ## License and Credit
