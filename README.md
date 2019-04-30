@@ -1,4 +1,4 @@
-[![GitHub license](https://img.shields.io/badge/license-MIT-green.svg)](https://gitlab.com/lotspaih/dicePy8k/blob/master/LICENSE) [![Language](https://img.shields.io/badge/language-python-blue.svg)](https://www.python.org/) 
+[![GitHub license](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/lotspaih/dicePy8k/blob/master/LICENSE) [![Language](https://img.shields.io/badge/language-python-blue.svg)](https://www.python.org/) 
 
 # DicePy8k
 DicePy8k is a very simple [Diceware](http://world.std.com/~reinhold/diceware.html) based passphrase generator written in Python using Diceware's 8k word list file for computer based pseudorandom generated Diceware passphrases.
